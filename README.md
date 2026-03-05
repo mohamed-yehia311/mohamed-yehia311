@@ -24,11 +24,6 @@
 ![Mohamed's Activity](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-yehia311&theme=tokyo-night)
 
 ---
-### 📊 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-yehia311&theme=tokyonight&margin-w=15&no-bg=true" alt="Mohamed's Trophies" />
-</p>
----
 
 ### 🤝 Connect with Me
 <p align="left">
